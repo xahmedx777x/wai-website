@@ -2,7 +2,7 @@
 title: "Translating WAI Resources"
 nav_title: Translating
 lang: en
-last_updated: 2024-04-09
+last_updated: 2024-09-17
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 
 permalink: /about/translating/
@@ -17,7 +17,7 @@ image: /content-images/about/social-translations.png
 feedbackmail: wai@w3.org
 
 footer: |
-  <p><strong>Date:</strong> Updated 9 April 2024.</p>
+  <p><strong>Date:</strong> Updated 17 September 2024.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Rémi Bétin.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation. Updated as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
@@ -26,11 +26,13 @@ footer: |
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides general instructions on translating WAI resources.
+Help make Web Accessibility Initiative (WAI) resources available in your language.
 
-For a list of existing translations, see {% include link.html to="/translations/" text="All WAI Translations" %}.
+Join the volunteer translation community to raise awareness of digital accessibility among a global audience. This page provides general instructions on translating WAI standards and resources.
 
-To get announcements related to WAI translations, subscribe to the WAI Translations mailing list by sending e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;</a>
+For a list of existing translations, see [All WAI Translations](/translations/).
+
+To get announcements related to WAI translations, subscribe to the WAI Translations mailing list by sending e-mail to [public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;](mailto:public-wai-translations-request@w3.org?subject=subscribe)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -49,66 +51,92 @@ To get announcements related to WAI translations, subscribe to the WAI Translati
 {% include_cached toc.html type="end" %}
 {:/}
 
-Thank you for your interest in translating resources from the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI).
+## Ways to contribute
 
-## Translation Instructions
+You can contribute to WAI translations in many ways:
 
-**Scope:**
-* These instructions cover web pages with a URI that begins with www.w3.org/WAI
-* For web pages that begin with www.w3.org/TR/ or something else, there is a different process that is introduced in [TR & Authorized W3C Translations below](#tr).
+[Providing video subtitles and audio descriptions in your language](/about/translating/resources/subtitles/)
+: This is the easiest way to start contributing, especially if you are not technical. Per video, there is only one text file to translate for subtitles, and one additional file if the video has an audio description.
 
-**Translator background** &mdash; we prefer translators to be:
+[Translating a WAI resource](/about/translating/resources/)
+: If you find an educational resource on WAI website useful (web pages with a URI that begins with www.w3.org/WAI), you are welcome to provide a translation in your language. It is best if you are comfortable editing a file with code.
+
+[Reviewing in-progress WAI resources translations](/about/translating/reviewing/)
+: Translations are reviewed by volunteers and staff before publication. You can help spot issues, even if you are not technical or if you do not know the translated language.
+
+[Creating a WCAG Unofficial translation {% include_cached external.html %}](https://www.w3.org/Consortium/Translation/)
+: You can host an unofficial translation of the Web Content Accessibility Guidelines (WCAG) after following a light process. Unofficial translations are not hosted on W3C website nor endorsed by W3C.
+
+[Creating a WCAG Authorized translation](/about/translating/wcag/)
+: You can develop an Authorized translation of WCAG that will be published on W3C website. It involves a formal process, coordination with stakeholder organizations, and a thorough review.
+
+We encourage you to keep up on related translations work by [subscribing to the WAI Translations mailing list](mailto:public-wai-translations-request@w3.org?subject=subscribe).
+by [subscribing to the WAI Translations mailing list](mailto:public-wai-translations-request@w3.org?subject=subscribe).
+
+## Process
+
+All contributions must go through the following steps before publication:
+
+### 1. Intent to translate
+
+Before starting a translation, verify that you are willing to contribute under the [Translation agreement](#translation-agreement). 
+
+Then, **you must ask and receive permission from W3C**: it generally involves sending an email to a mailing list, or opening a GitHub issue in the relevant repository. This step is described in more detail in each policy.
+
+### 2. Translation
+
+It involves the following steps:
+- getting the files to translate, from a GitHub repository or from WAI staff.
+- editing the file(s) in a code editor.
+- sending the code for review: directly by opening a Pull request in GitHub, or by sending the file(s) back to WAI staff.
+
+To avoid overlapping work:
+* please do **not** translate files from the web
+* follow the guidance to _get the right file to translate_ and to ensure that the resource is ready for you to translate.
+
+### 3. Review
+
+All translations are reviewed before they are published.
+- WAI Resources translations are reviewed by other volunteers and by WAI staff. Once reviewed, they are published to the 
+- WCAG Candidate Authorized Translations (CAT) follow a formal review process described in the [Policy for Authorized W3C Translations](https://www.w3.org/2005/02/TranslationPolicy.html)
+- WCAG Unofficial translations follow a simpler review process.
+
+## Additional information
+
+### Translator background
+
+We prefer translators to be:
 * native speakers
 * familiar with accessibility terminology in their language
 * comfortable editing a file with code
 
-To avoid overlapping work:
-* please do **not** translate files from the web
-* follow the [step-by-step guide](/about/translating/resources/) to _get the right file to translate_ and to ensure that the resource is ready for you to translate.
-
-### If you want to translate a WAI resource:
-
-- Follow instructions in [[Step-by-Step Guide to Translating WAI Resources]](/about/translating/resources/).
-
-### If you want to volunteer to review a translation:
-
-- Follow instructions in [[Reviewing a Translation]](/about/translating/reviewing/).
-
-We encourage you to keep up on related translations work by [subscribing to the WAI Translations mailing list](mailto:public-wai-translations-request@w3.org?subject=subscribe).
-   
-### Important notes
-
-#### Translation Agreement
+### Translation Agreement {#translation-agreement}
 
 By submitting a translation, you agree:
 * To the redistribution terms of the [W3C Document License](https://www.w3.org/copyright/document-license-2023/). Your translation may be republished by the W3C or other entities if it is done in compliance with the License terms.
 * That the W3C may rescind your right to publish or distribute the derivative work if the W3C finds that it leads to confusion regarding the original document's status or integrity. ([Source](https://www.w3.org/copyright/intellectual-rights/#translate).)
 
-#### Reviews
-
-Translations will be reviewed before they are published.
-
-#### Names and Links  {#links}
-
-This policy is based on [Internationalization Links](https://www.w3.org/International/i18n-drafts/pages/translation.html#linkingrules), which provides some background.
+### Crediting {#links}
 
 Translations can include:
 
 * Translator's formal name, common name used online, &/or Twitter handle.
-   * Link to information about the translator as an individual, such as "about" page on personal website or biography page on a scholarly website.
+  * Link to information about the translator as an individual, such as "about" page on personal website or biography page on a scholarly website.
 * Organization name - translator's employer &/or other sponsor/funder of the translation.
 
 Cannot include:
 * Links to organizations. (Exception: Qualifying accessibility/disability organizations or translation organizations. To request an exception, e-mail [wai@w3.org with subject [Translations link request]](mailto:wai@w3.org?subject=%5BTranslations%20link%20request%5D).)
 * Links to personal home pages rather than "about" pages.
 
-#### Updating Resources
+This policy is based on [Internationalization Links](https://www.w3.org/International/i18n-drafts/pages/translation.html#linkingrules), which provides some background.
 
-When the English version of a resource is updated, we will inform translators what has changed<!-- @@by GitHub &/or e-mail -->, and request that translators update their translation. If original translators do not respond before we need the update, we will invite others to update the translation.
+### Updating Resources
+
+When the English version of a resource is updated, we will inform translators what has changed, and request that translators update their translation. If original translators do not respond before we need the update, we will invite others to update the translation.
 
 In some cases, we will add the updated English to the translation while awaiting an update. If the changes are substantive, the translation may be removed until an updated version is provided.
 
-#### W3C Translations Information
+### W3C Translations Information
 
 More information is available in [W3C Translations](https://www.w3.org/Consortium/Translation/) and in <a href="https://www.w3.org/copyright/intellectual-rights/">W3C Intellectual Rights FAQ</a>, particularly under the questions starting with <a href="https://www.w3.org/copyright/intellectual-rights/#translate">can I translate one of your specifications into another language?</a>
 
