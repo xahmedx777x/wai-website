@@ -97,8 +97,8 @@ To avoid overlapping work:
 ### 3. Review
 
 All translations are reviewed before they are published.
-- WAI Resources translations are reviewed by other volunteers and by WAI staff. Once reviewed, they are published to the 
-- WCAG Candidate Authorized Translations (CAT) follow a formal review process described in the [Policy for Authorized W3C Translations](https://www.w3.org/2005/02/TranslationPolicy.html)
+- WAI Resources translations are reviewed by other volunteers and by WAI staff. Once reviewed, they are published to the WAI website.
+- WCAG Candidate Authorized Translations (CAT) follow a formal review process described in the [Policy for Authorized W3C Translations](https://www.w3.org/2005/02/TranslationPolicy.html). Once reviewed, they are published to the W3C website.
 - WCAG Unofficial translations follow a simpler review process.
 
 ## Additional information
@@ -114,7 +114,7 @@ We prefer translators to be:
 
 By submitting a translation, you agree:
 * To the redistribution terms of the [W3C Document License](https://www.w3.org/copyright/document-license-2023/). Your translation may be republished by the W3C or other entities if it is done in compliance with the License terms.
-* That the W3C may rescind your right to publish or distribute the derivative work if the W3C finds that it leads to confusion regarding the original document's status or integrity. ([Source](https://www.w3.org/copyright/intellectual-rights/#translate).)
+* That the W3C may rescind your right to publish or distribute the derivative work if the W3C finds that it leads to confusion regarding the original document's status or integrity. ([Source](https://www.w3.org/copyright/intellectual-rights/#translate))
 
 ### Crediting {#links}
 
@@ -151,7 +151,7 @@ There is also a broader W3C Translators list. To subscribe: [e-mail to w3c-trans
 
 ## TR & Authorized W3C Translations {#tr}
 
-Web pages at URIs that begin with www.w3.org/TR/ (for "Technical Report") follow a different process described in [W3C Translations](https://www.w3.org/Consortium/Translation/).
+Web pages at URIs that begin with www.w3.org/TR/ (for "Technical Report") follow the process described in [W3C Translations](https://www.w3.org/Consortium/Translation/).
 
 Most translations are informative and unofficial. In cases where standards translations are meant for official purposes, they may be developed as Authorized W3C Translations according to the **[Policy for Authorized W3C Translations](https://www.w3.org/2005/02/TranslationPolicy.html)**. Generally only completed W3C Recommendations and Working Group Notes are candidates for Authorized W3C Translations, including the WAI guidelines. The authorized translations policy is designed to ensure transparency and community accountability in the development of authorized translations under the oversight of W3C.
 
