@@ -71,7 +71,6 @@ You can contribute to WAI translations in many ways:
 : You can develop an Authorized translation of WCAG that will be published on W3C website. It involves a formal process, coordination with stakeholder organizations, and a thorough review.
 
 We encourage you to keep up on related translations work by [subscribing to the WAI Translations mailing list](mailto:public-wai-translations-request@w3.org?subject=subscribe).
-by [subscribing to the WAI Translations mailing list](mailto:public-wai-translations-request@w3.org?subject=subscribe).
 
 ## Process
 
