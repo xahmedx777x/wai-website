@@ -4,7 +4,7 @@
 title: "Initiate"
 nav_title: "Initiate"
 lang: en  # Change "en" to the translated-language shortcode
-last_updated: 2016-03-31  # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-08-18  # Put the date of this translation YYYY-MM-DD (with month in the middle)
 title_icon: /content-images/planning-managing/icons.svg#initiate
 order: 1
 
