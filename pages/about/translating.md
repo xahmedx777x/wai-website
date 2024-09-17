@@ -75,13 +75,13 @@ by [subscribing to the WAI Translations mailing list](mailto:public-wai-translat
 
 ## Process
 
-All contributions must go through the following steps before publication:
+All contributions must go through the following main steps before publication. Please note that these steps are described in more detail in each policy. Additional steps may also be necessary depending on the translated document.
 
 ### 1. Intent to translate
 
 Before starting a translation, verify that you are willing to contribute under the [Translation agreement](#translation-agreement). 
 
-Then, **you must ask and receive permission from W3C**: it generally involves sending an email to a mailing list, or opening a GitHub issue in the relevant repository. This step is described in more detail in each policy.
+Then, **you must ask and receive permission from W3C**. It generally involves sending an email to a mailing list, or opening a GitHub issue in the relevant repository.
 
 ### 2. Translation
 
